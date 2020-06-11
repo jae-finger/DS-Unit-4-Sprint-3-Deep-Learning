@@ -11,3 +11,10 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+
+(1) Considering no one human is good at everything, do you think one of the major break throughs could be making an AGI that is more skilled/smart/intelligent than one human?
+
+(2) How should regulate AGI? Should we? Who does it?
+
+(3) If you could have an AGI or something close, what would you hope it would do? (I am especially interested in medical ai to help or replace medical practices).
